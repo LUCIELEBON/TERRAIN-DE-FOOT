@@ -1,0 +1,177 @@
+h1 
+{
+    color: aqua;
+}
+.Terrain
+{
+    width: 626px;
+    height: 800px;
+    border: 5px solid white;
+    position: relative;
+    top: 500px;
+    left: 500px;
+}
+
+.But
+{
+    position: relative;
+    height:150px;
+    border: solid white 5px;
+    left: 550px;
+    top: 300px;;
+}
+
+.But1
+{
+    position: relative;
+    height: 150px;
+    border: solid white 5px;
+    left: 550px;
+    top: 300px;
+}
+
+.Point_surface
+{
+    position: relative;
+    border: solid white 5px;
+    border-radius: 20px;
+    background-color: white;
+    left: 118px;
+    top: 70px;
+}
+
+.surface
+{
+    position: relative;
+    width: 80px;
+    height: 20px;
+    border: solid white 5px;
+    left: 83px;
+    top: -2px;
+}
+
+.Ligne_millieu
+{
+    position: relative;
+    border-bottom: solid white 5px;
+    left: 60%;
+    top:200%;
+}
+
+.Point_Centre
+{
+    position: relative;
+    width: 3px;
+    height: 3px;
+    border: solid white 5px;
+    border-radius: 20px;
+    background-color: white;
+    left: 6px;
+    top: 10 px;
+}
+
+.Penalti
+{
+    position: relative;
+    width: 130px;
+    height: 80px;
+    border: solid white 5px;
+    left: 60px;
+    top: -3px;
+}
+
+.centre
+{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border: solid white 5px;
+    border-radius: 50px;
+    left: 95px;
+    top: 327px;
+}
+
+.surface1
+{
+    position: relative;
+    width: 80px;
+    height: 20px;
+    border: solid white 5px;
+    left: 83px;
+    top: 674px;
+}
+
+.Point_surface1
+{
+    position: relative;
+    width: 3px;
+    height: 3px;
+    border: solid white 5px;
+    border-radius: 20px;
+    background-color: white;
+    left: 118px;
+    top: 640px;
+}
+
+.Penalti1
+{
+    position:relative;
+    width: 130px;
+    height: 80px;
+    border: solid white 5px;
+    left: 60px;
+    top: 613px;
+}
+
+.corner
+{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: solid white 5px;
+    border-radius: 0 0 20px 0;
+    left: -4px;
+    top: -5px;
+}
+
+.corner1
+{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: solid white 5px;
+    border-radius: 0 0 0 20px;
+    left: 226px;
+    top: -5px;
+}
+
+.corner2
+{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: solid white 5px;
+    border-radius: 0 20px 0 0;
+    left: -4px;
+    top: 675px;
+}
+
+.corner3
+{
+    position:relative;
+    width: 20px;
+    height: 20px;
+    border: solid white 5px;
+    border-radius: 20px 0 0 0;
+    left: 226px;
+    top: 675px;
+}  
+.image_fond_responsive { 
+background: src="terrainfoot.jpg";
+background-repeat : repeat
+width: 100%;
+height: auto;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
